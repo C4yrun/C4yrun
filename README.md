@@ -8,10 +8,6 @@
 
 > Night shift. Empty corridors. Flickering lights. Something is always watching.
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1200&q=80" alt="dim office hallway" width="1000" />
-</div>
-
 ## mood
 
 A quiet, unsettling horror experience built around paranoia, isolation, and the feeling that you are never truly alone. The world is stripped down to silence, repetition, and dimness — low-poly forms, haze, heavy shadows, and a sense that the wrong sound is always just one step behind you.
@@ -26,14 +22,6 @@ A quiet, unsettling horror experience built around paranoia, isolation, and the 
 
 The atmosphere is intentionally cold and restrained: a distant hum, a flickering lamp, a hallway that seems too long, a window that reflects more than it should. It is not about loud scares — it is about waiting for the moment that makes you question whether the room is empty.
 
-<div align="center">
-  <a href="https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1200&q=80">
-    <img src="https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=700&q=80" alt="empty office corridor" width="460" />
-  </a>
-  <a href="https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1200&q=80">
-    <img src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=700&q=80" alt="dark office room" width="460" />
-  </a>
-</div>
 
 ## current focus
 
