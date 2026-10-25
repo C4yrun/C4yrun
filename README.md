@@ -91,7 +91,7 @@
 
 ## mood
 
-A quiet, unsettling horror experience built around paranoia, isolation, and the feeling that you are never truly alone. The world is stripped down to silence, repetition, and dimness — low-poly architecture, flickering light, and endless corridors pressing inward.
+A quiet, unsettling horror experience built around paranoia, isolation, and the feeling that you are never truly alone. The world is stripped down to silence, repetition, and dimness — low-poly forms, haze, heavy shadows, and a sense that the wrong sound is always just one step behind you.
 
 - 🕯️ dim light as safety
 - 🏢 empty office labyrinths
@@ -101,8 +101,7 @@ A quiet, unsettling horror experience built around paranoia, isolation, and the 
 
 ## tone
 
-The atmosphere is intentionally cold and restrained: a distant hum, a flickering lamp, a hallway that seems too long, a window that reflects more than it should. It is not about loud scares — it is about the slow crawl of unease, the feeling that every repeated corridor has been seen before.
-
+The atmosphere is intentionally cold and restrained: a distant hum, a flickering lamp, a hallway that seems too long, a window that reflects more than it should. It is not about loud scares — it is about waiting for the moment that makes you question whether the room is empty.
 
 ## current focus
 
